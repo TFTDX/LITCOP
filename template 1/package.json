@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "serve": "npx vite --port 8080"
+  },
+  "devDependencies": {
+    "vite": "^2.9.9"
+  }
+}
