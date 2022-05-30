@@ -1,0 +1,15 @@
+.black-border {
+  border: black 1px solid;
+}
+
+.color-red {
+  color: red;
+}
+
+.color-pink {
+  color: pink;
+}
+
+.bcolor-yellow {
+  background-color: yellow;
+}
